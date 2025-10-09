@@ -4,9 +4,9 @@ A simple Python program for converting temperatures between Celsius and Fahrenhe
 Created for **APT 2080 Lab** to demonstrate GitHub collaboration, branching, and peer review.  
 
 **Contributors:**  
-- Maina Murakaru (Maintainer)  
-- Adan Badriyah (Collaborator)  
-- Mohammed Dahir (Reviewer)
+- Maina Murakaru (Maintainer)  - 672763
+- Adan Badriyah (Collaborator)  - 672045
+- Mohammed Dahir (Reviewer) - 673082
 
 ---
 
@@ -14,6 +14,14 @@ Created for **APT 2080 Lab** to demonstrate GitHub collaboration, branching, and
 - Convert Celsius to Fahrenheit and vice versa  
 - Includes basic input validation and error handling  
 - Demonstrates Git branching, merging, and collaborative review
+
+---
+
+## Collaboration and Testing
+- Branching, merging and collaboration: Done by Maina Murakaru
+- Unit testing: Done by Adan Badriyah
+- Input-validation & exception-handling: Done by Mohammed Dahir
+- All reviewed and approved each other's work through GitHub Pull Requests
 
 ---
 
