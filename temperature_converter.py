@@ -37,3 +37,21 @@ if __name__ == "_main_":
 
     # Convert Fahrenheit to Celsius
     print("77°F =", round(f_to_c(77), 2),"°C")
+
+def c_to_f(celsius):
+    if not isinstance(celsius, (int, float)):
+        raise TypeError("Temperature must be a number.")
+    return (celsius * 9/5) + 32
+
+def f_to_c(fahrenheit):
+    if not isinstance(fahrenheit, (int, float)):
+        raise TypeError("Temperature must be a number.")
+    return (fahrenheit - 32) * 5/9
+
+if __name__ == "__main__":
+    try:
+        temp = float(input("Enter temperature in Celsius: "))
+        print(f"In Fahrenheit: {c_to_f(temp)}°F")
+    except ValueError:
+        print("Error: Please enter a valid numeric temperature.")
+
