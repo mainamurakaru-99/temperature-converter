@@ -19,7 +19,7 @@ Created for **APT 2080 Lab** to demonstrate GitHub collaboration, branching, and
 
 ## Collaboration and Testing
 - Branching, merging and collaboration: Done by Maina Murakaru
-- Unit testing: Done by Adan Badriyah
+- Module writing and unit testing: Done by Adan Badriyah
 - Input-validation & exception-handling: Done by Mohammed Dahir
 - All reviewed and approved each other's work through GitHub Pull Requests
 
