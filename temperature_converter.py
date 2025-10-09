@@ -2,6 +2,9 @@
 temperature_converter.py
 a simple module that converts temperature between celcius and farenheit.
 """
+# --- Function: Celsius to Fahrenheit ---
+# Formula: (°C × 9/5) + 32
+# This takes a temperature in Celsius and returns its Fahrenheit equivalent.
 def c_to_f(celcius):
     """
     convert celcius to farenheit.
@@ -13,6 +16,9 @@ def c_to_f(celcius):
     """
     return (celcius * 9/5) +32
 
+# --- Function: Fahrenheit to Celsius ---
+# Formula: (°F − 32) × 5/9
+# This takes a temperature in Fahrenheit and returns its Celsius equivalent.
 def f_to_c(farenheit):
     """
     convert farenheit to celcius.
