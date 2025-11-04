@@ -34,13 +34,12 @@ This demonstrates the importance of defensive programming — preventing system 
 - Version Control and Collaboration (Git & GitHub)
 
 The project follows structured version control practices using Git and GitHub to simulate a collaborative software development workflow.
-Key activities include:
 
-Branching: Each contributor works on separate branches to isolate changes and prevent conflicts in the main codebase.
+Each team member contributed code updates or documentation through the shared repository.
 
-Merging: Completed features are reviewed and merged into the main branch after verification, ensuring controlled integration.
+GitHub was used to track project progress, store commits, and maintain a clear history of contributions.
 
-Collaborative Review: Team members perform peer reviews through pull requests, adding comments and suggestions before merging.
+The platform also supported collaborative review and easy access to the most updated version of the codebase.
 
 ---
 
