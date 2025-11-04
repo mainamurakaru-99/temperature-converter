@@ -7,6 +7,7 @@ Created for **APT 2080 Lab** to demonstrate GitHub collaboration, branching, and
 - Maina Murakaru (Maintainer)  - 672763
 - Adan Badriyah (Collaborator)  - 672045
 - Mohammed Dahir (Collaborator) - 673082
+- Nyang'ara Nyamwange (Collaborator) - 670593
 
 ---
 
