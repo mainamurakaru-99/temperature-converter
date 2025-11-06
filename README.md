@@ -43,6 +43,33 @@ The platform also supported collaborative review and easy access to the most upd
 
 ---
 
+Testing:
+For this project we used 3 types of testing:
+Unit Testing
+Input Validation testing
+Manual User testing
+
+Unit testing
+ 
+Unit tests were done to ensure the conversion formulas were correct. We did this by running the program with known values, from celsius to fahrenheit and fahrenheit to celsius, and confirming that the output results were all accurate. 
+
+Input validation testing
+
+These tests were to confirm how the program handles invalid input. We did this by putting in values that were not numbers, like text and characters, to confirm that the program would put out the correct error messages.
+
+Manual User testing
+
+This was to ensure the program was clear, understandable and easy to use. We did this by:
+Making sure the input prompt is clear
+Ensuring the output is formatted correctly and had the correct units
+Ensuring execution was smoothly completed
+
+Testing Outcome:
+
+The testing process confirmed that The conversions were accurate, proper error messages were displayed when tests were done with invalid inputs, and the program is simple and easy to use.
+
+---
+
 ## Collaboration and Testing
 - Documentation, branching, merging and collaboration: Done by Maina Murakaru
 - Module writing and unit testing: Done by Adan Badriyah
