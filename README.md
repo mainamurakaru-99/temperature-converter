@@ -43,6 +43,17 @@ The platform also supported collaborative review and easy access to the most upd
 
 ---
 
+Development model:
+
+For this project, our team used the agile model of software development, which emphasizes flexibility and collaboration. We chose this because:
+
+We handled separate parts of the project
+We wanted to review each other’s work
+We needed to go back and forth with the code
+We worked collaboratively on GitHub
+
+In summary, we chose agile because it allowed us to work simultaneously on different parts and change anything that was previously done.
+
 Testing:
 For this project we used 3 types of testing:
 Unit Testing
